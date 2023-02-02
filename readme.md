@@ -12,6 +12,7 @@
 * Swiper.js
 
 ## Ссылки
+<a href="https://stelzf117.github.io/The_Witcher_slider/">Pages</a>
 <a href="https://webdesign-master.ru/blog/html-css/horizontal-parallax-scrolling.html">Страница урока</a>
 
 ## Запуск в локальном репозитории
